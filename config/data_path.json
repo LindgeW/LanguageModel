@@ -1,0 +1,10 @@
+{
+  "data": {
+    "train": "./corpus/train.txt",
+    "valid": "./corpus/val.txt",
+    "test": "./corpus/test.txt"
+  },
+  "weight_path": {
+    "save": "./corpus/weight.npy"
+  }
+}
